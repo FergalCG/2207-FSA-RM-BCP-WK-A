@@ -71,7 +71,7 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 ## **03 Coercion and Truthiness**
 
-<!--[Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
+[Lecture Slides](Lecture-Slides/03-Coercion-and-Truthiness.pptx)
 
 **[Live Lecture + Review](https://youtu.be/j482HCea6QU)**
 
@@ -88,17 +88,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ed/text)
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
+<!--[Solutions](https://learn.fullstackacademy.com/workshop/5ac574e51abd3200043c12e8/content/5ac574e51abd3200043c12ee/text)
 
 **[Solution - Caesar Cypher](https://youtu.be/AN2fwt0n454)**
 
-**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**
+**[Solution - Find Missing Number](https://youtu.be/20DegeggnKY)**-->
 
 
 
 ## **05 Scope**
 
-**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
+<!--**[Live Lecture + Workshop Review](https://youtu.be/yaY7wvap1nw)**
 
 **[Lecture Slides](Lecture-Slides/05-Scope.pptx)**
 
