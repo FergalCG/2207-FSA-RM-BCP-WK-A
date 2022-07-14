@@ -157,11 +157,11 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb24e/text)
 
-<!--[Lecture Slides](Lecture-Slides/10-Object-Methods.pptx)
+[Lecture Slides](Lecture-Slides/10-Object-Methods.pptx)
 
 **[Live Lecture + Review](https://youtu.be/TCN87j_ex5A)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5ac57cb8bd9f9e0004adb24a/content/5ac57cb8bd9f9e0004adb250/text)
 
 ## **11 Pass by Value/Pass by Reference**
 
