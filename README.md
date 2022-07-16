@@ -19,9 +19,9 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 11. [Pass by Value/Pass by Reference](#11-pass-by-valuepass-by-reference)
 12. [Higher Order Functions I](#12-higher-order-functions-i)
 13. [Higher Order Functions II](#13-higher-order-functions-ii)
-<!--14. [Recursion I](#14-recursion-i)
+14. [Recursion I](#14-recursion-i)
 15. [Recursion II](#15-recursion-ii)
-16. [Next Steps](#16-next-steps)-->
+<!--16. [Next Steps](#16-next-steps)-->
 
 ## Additional Resources
 
@@ -177,17 +177,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fb/text)
 
-<!--[Lecture Slides](Lecture-Slides/12-Higher-order-Functions-I.pptx)
+[Lecture Slides](Lecture-Slides/12-Higher-order-Functions-I.pptx)
 
 **[Live Lecture + Review](https://youtu.be/ici220HYgIA)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)-->
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca3eba37312200043b62f7/content/5aca3eba37312200043b62fd/text)
 
 ## **13 Higher Order Functions II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca4075097e670004598a96/content/5aca4075097e670004598a9a/text)
 
-<!--[Lecture Slides](Lecture-Slides/13-Higher-order-Functions-II.pptx)
+[Lecture Slides](Lecture-Slides/13-Higher-order-Functions-II.pptx)
 
 **[Live Lecture + Review](https://youtu.be/-_7R_j61UZ0)**
 
@@ -197,17 +197,17 @@ Hello! This is where I will put all the material for BCP. If any of the links do
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b634e/text)
 
-[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
+<!--[Lecture Slides](Lecture-Slides/14-Recursion-I.pptx)
 
 **[Live Lecture + Review](https://youtu.be/J5lk5cmJlkM)**
 
-[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)
+[Solutions](https://learn.fullstackacademy.com/workshop/5aca423037312200043b634a/content/5aca423137312200043b6350/text)-->
 
 ## **15 Recursion II**
 
 [Workshop](https://learn.fullstackacademy.com/workshop/5aca509c37312200043b6422/content/5aca509c37312200043b6426/text)
 
-**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
+<!--**[Live Lecture + Review](https://youtu.be/zBghZMnA0mk)**
 
 [Lecture Slides](Lecture-Slides/15-Recursion-II.pptx)
 
